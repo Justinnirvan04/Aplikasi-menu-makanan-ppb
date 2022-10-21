@@ -216,26 +216,26 @@ public class MainActivity extends Activity {
         prices = Integer.toString(total);
 
         if (bp > 0) {
-            choices = choices + "\n\nAyam       (" + bp + " x 15.000) = " + tbp;
+            choices = choices + "\n\nAyam ,deskripsi ayam enak sekali      (" + bp + " x 15.000) = " + tbp;
         }
 
         if (hp > 0) {
-            choices = choices + "\n\nBebek      (" + hp + " x 18000) = " + thp;
+            choices = choices + "\n\nBebek , deskripsi bebek enak     (" + hp + " x 18000) = " + thp;
         }
 
         if (frp > 0) {
-            choices = choices + "\n\nNila       (" + frp + " x 13000) = " + tfrp;
+            choices = choices + "\n\nNila ,  deskripsi nila enak      (" + frp + " x 13000) = " + tfrp;
         }
 
         if (pp > 0) {
-            choices = choices + "\n\nLele       (" + pp + " x 11000) = " + tpp;
+            choices = choices + "\n\nLele , deskripsi lele enak     (" + pp + " x 11000) = " + tpp;
         }
         if (fip > 0) {
-            choices = choices + "\n\nEs Teh     (" + fip + " x 2000) = " + tfip;
+            choices = choices + "\n\nEs Teh  , deskripsi esteh seger   (" + fip + " x 2000) = " + tfip;
         }
 
         if (drp > 0) {
-            choices = choices + "\n\nEs Jeruk   (" + drp + " x 3000) = " + tdrp;
+            choices = choices + "\n\nEs Jeruk , deskripsi esjeruk seger  (" + drp + " x 3000) = " + tdrp;
         }
 
 
